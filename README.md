@@ -7,7 +7,7 @@ Frontend Developer
 I'm a passionate and motivated Frontend Developer that is dedicated to developing quality, visually appealing, and high-performance web applications. I currently possess knowledge on modern technologies such as TypeScript, NextJS, TailwindCSS, and more.
 
 * 🌍  I'm based in Michigan
-* 🖥️  See my portfolio at [My Portfolio](http://ayahhammoud.com)
+* 🖥️  See my portfolio at [https://ayahhammoud.com](http://ayahhammoud.com)
 * ✉️  You can contact me at [me@ayahhammoud.com](mailto:me@ayahhammoud.com)
 * 🧠  I'm learning MySQL
 
